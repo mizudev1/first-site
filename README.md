@@ -1,1 +1,1 @@
-# https://mizudev1.github.io/mizudevfirstsite.github.io/
+# https://mizudev1.github.io/first-site/
